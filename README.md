@@ -16,7 +16,7 @@ ekansh = {
     "name"      : "Ekansh Kumar",
     "location"  : "Gurugram, India",
     "education" : { "college": "VIT Vellore", "degree": "B.Tech CSE", "cgpa": 9.02, "grad": 2027 },
-    "currently" : "Building things that shouldn't exist yet 🚀"
+    "currently" : "Building things that shouldn't exist yet!"
 }
 ```
 
@@ -48,7 +48,7 @@ ekansh = {
 
 ---
 
-## 🏆 Highlights
+##Highlights
 
 | 🥇 | Achievement |
 |----|-------------|
@@ -58,13 +58,13 @@ ekansh = {
 
 ---
 
-## 🚀 Featured Projects
+##Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔗 TraceMind
+###TraceMind
 > AI + Blockchain supply chain integrity system  
 > `FastAPI` `Isolation Forest` `Ethereum ERC-721` `Flutter`  
 > ⚡ <200ms real-time anomaly detection
@@ -72,7 +72,7 @@ ekansh = {
 </td>
 <td width="50%">
 
-### 📄 ClauseGuard
+###ClauseGuard
 > GenAI contract risk analysis platform  
 > `Next.js` `Groq LLM (Llama 3.3 70B)` `Celery` `Redis`  
 > 🤖 Structured clause extraction & risk scoring
@@ -82,7 +82,7 @@ ekansh = {
 <tr>
 <td width="50%">
 
-### 🧠 NeuroSentinel
+###NeuroSentinel
 > Non-invasive AI Alzheimer's diagnostic system  
 > `Python` `Vosk` `Random Forest` `SMOTE`  
 > 📈 Accuracy improved from 67% → 84.21%
@@ -90,7 +90,7 @@ ekansh = {
 </td>
 <td width="50%">
 
-### 🔐 InvisibleQR
+###InvisibleQR
 > Hide encrypted messages in real-world textures  
 > `Swift` `CoreML`  
 > 🏆 iOS Fusion 8.0 Hackathon Winner

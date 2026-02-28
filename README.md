@@ -16,7 +16,7 @@ ekansh = {
     "name"      : "Ekansh Kumar",
     "location"  : "Gurugram, India",
     "education" : { "college": "VIT Vellore", "degree": "B.Tech CSE", "cgpa": 9.02, "grad": 2027 },
-"currently" : "Building things that shouldn't exist yet 🚀"
+    "currently" : "Building things that shouldn't exist yet 🚀"
 }
 ```
 

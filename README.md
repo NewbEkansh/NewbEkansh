@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Ekansh!&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Builder%20%7C%20Full-Stack%20Dev%20%7C%20Hackathon%20Winner&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Ekansh!&fontSize=50&fontColor=ffffff&fontAlignY=38)
 
 <div align="center">
 
@@ -16,8 +16,7 @@ ekansh = {
     "name"      : "Ekansh Kumar",
     "location"  : "Gurugram, India",
     "education" : { "college": "VIT Vellore", "degree": "B.Tech CSE", "cgpa": 9.02, "grad": 2027 },
-    "focus"     : ["AI/ML Systems", "Full-Stack Dev", "Blockchain", "GenAI"],
-    "currently" : "Building things that shouldn't exist yet 🚀"
+"currently" : "Building things that shouldn't exist yet 🚀"
 }
 ```
 
@@ -55,7 +54,7 @@ ekansh = {
 |----|-------------|
 | 🥈 | **HackSphere 2026** – 2nd Place for NeuroSentinel (AI Alzheimer's Detection) |
 | 🏆 | **iOS Fusion 8.0 Winner** – InvisibleQR: AI-powered steganographic messaging app |
-| 🎯 | **Flipkart GRiD 7.0 Semi-Finalist** – Top finisher among 160,000+ participants |
+
 
 ---
 
